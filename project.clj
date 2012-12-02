@@ -3,5 +3,5 @@
   :url "http://github.com/sebnow/bitcoincharts-clj"
   :license {:name "MIT"
             :url "http://www.opensource.org/licenses/mit-license.php"}
-  :dependencies [[org.clojure/clojure "1.4.0"]])
-
+  :dependencies [[org.clojure/clojure "1.4.0"]
+                 [org.clojure/data.csv "0.1.2"]])
